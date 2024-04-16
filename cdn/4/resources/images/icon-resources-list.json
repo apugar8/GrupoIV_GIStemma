@@ -1,0 +1,72 @@
+{
+  "1711455122058.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1711455122058.png",
+    "properties": {
+      "filename": "1711455122058.png",
+      "originalName": "instagram-167-svgrepo-com.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1711455122058.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1713216116752.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1713216116752.png",
+    "properties": {
+      "filename": "1713216116752.png",
+      "originalName": "1116515.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1713216116752.png",
+      "color": "var(--dark-800)",
+      "size": 16,
+      "inlineSvg": false,
+      "isUploaded": true
+    }
+  },
+  "1713216896757.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1713216896757.png",
+    "properties": {
+      "filename": "1713216896757.png",
+      "originalName": "meteorologia.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1713216896757.png",
+      "color": "var(--dark-800)",
+      "size": 16,
+      "inlineSvg": false,
+      "isUploaded": true
+    }
+  },
+  "1713216947627.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1713216947627.png",
+    "properties": {
+      "filename": "1713216947627.png",
+      "originalName": "meteorologia (1).png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1713216947627.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1713217022964.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1713217022964.png",
+    "properties": {
+      "filename": "1713217022964.png",
+      "originalName": "planta-en-crecimiento.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1713217022964.png",
+      "inlineSvg": false
+    }
+  },
+  "1713217064000.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1713217064000.png",
+    "properties": {
+      "filename": "1713217064000.png",
+      "originalName": "satelite.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1713217064000.png",
+      "inlineSvg": false
+    }
+  },
+  "Página": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 12 12\"><path fill=\"#000\" fill-rule=\"evenodd\" d=\"M10.167 0H1.833A.845.845 0 0 0 1 .857v10.286c0 .473.373.857.833.857h8.334c.46 0 .833-.384.833-.857V.857A.845.845 0 0 0 10.167 0M2 11V1h8v10zm1.6-8h4.8c.331 0 .6.224.6.5s-.269.5-.6.5H3.6c-.331 0-.6-.224-.6-.5s.269-.5.6-.5m4.8 3H3.6c-.331 0-.6.224-.6.5s.269.5.6.5h4.8c.331 0 .6-.224.6-.5S8.731 6 8.4 6\" clip-rule=\"evenodd\"></path></svg>?token=3NKHt6i2urmWtqOuugvr9Xn6TCJEjjmJkikZq_rmESg1v4KpZsF_ab-GSrkQYCNdEtrFHnKwPC6FEwNWTSQeRN2HT35s1BVYGbgl-ergpd-FiNtiGNnC5lLBod4p80s7GFnvh0BiBPWrMnMpRSVMw_wFRoHlfoocoAe0J4O0tWUtIK0oEV4GYxQsmLH-d-InADr-l-xZ68_gN8uTzaFRwv5FALTul9N4swEE4731_yU.",
+    "properties": {
+      "filename": "Página",
+      "originalName": "outlined/data/page.svg",
+      "inlineSvg": true
+    }
+  }
+}

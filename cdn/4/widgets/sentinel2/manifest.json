@@ -1,0 +1,15 @@
+{
+  "name": "sentinel2",
+  "label": "Widget seleccionador de funciones raster.",
+  "type": "widget",
+  "version": "1.13.0",
+  "exbVersion": "1.13.0",
+  "author": "Adrián Puigcerver",
+  "description": "Este widget selecciona la función ráster deseada pulsando un botón.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "dependency": [
+    "jimu-arcgis"
+  ]
+}
